@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', 'PingFang SC', Arial, sans-serif;
+  background: #0f1420;
+  color: #dbe2ef;
+}
+#app { min-height: 100vh; }
